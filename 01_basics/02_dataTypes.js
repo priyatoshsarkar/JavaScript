@@ -7,4 +7,3 @@ let name = "Sathi"
 let a = 10
 console.log(typeof "Sathi");
 console.log(typeof null);
-
